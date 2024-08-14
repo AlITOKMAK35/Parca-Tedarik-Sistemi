@@ -1,0 +1,11 @@
+D:\Öğrenci Projeleri\Parça Tedarik\bin\Release\Parça Tedarik.exe.config
+D:\Öğrenci Projeleri\Parça Tedarik\bin\Release\Parça Tedarik.exe
+D:\Öğrenci Projeleri\Parça Tedarik\bin\Release\Parça Tedarik.pdb
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Release\Parça Tedarik.csproj.AssemblyReference.cache
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Release\Parça Tedarik.csproj.SuggestedBindingRedirects.cache
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Release\Parça_Tedarik.Form1.resources
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Release\Parça_Tedarik.Properties.Resources.resources
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Release\Parça Tedarik.csproj.GenerateResource.cache
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Release\Parça Tedarik.csproj.CoreCompileInputs.cache
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Release\Parça Tedarik.exe
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Release\Parça Tedarik.pdb

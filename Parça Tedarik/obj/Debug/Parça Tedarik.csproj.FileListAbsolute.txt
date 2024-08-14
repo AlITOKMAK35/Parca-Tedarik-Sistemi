@@ -1,0 +1,31 @@
+D:\Öğrenci Projeleri\Parça Tedarik\bin\Debug\Parça Tedarik.exe.config
+D:\Öğrenci Projeleri\Parça Tedarik\bin\Debug\Parça Tedarik.exe
+D:\Öğrenci Projeleri\Parça Tedarik\bin\Debug\Parça Tedarik.pdb
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.AssemblyReference.cache
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.SuggestedBindingRedirects.cache
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Debug\Parça_Tedarik.Form1.resources
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Debug\Parça_Tedarik.Properties.Resources.resources
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.GenerateResource.cache
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.CoreCompileInputs.cache
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Debug\Parça Tedarik.exe
+D:\Öğrenci Projeleri\Parça Tedarik\obj\Debug\Parça Tedarik.pdb
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\bin\Debug\Parça Tedarik.exe.config
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\bin\Debug\Parça Tedarik.exe
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\bin\Debug\Parça Tedarik.pdb
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\obj\Debug\Parça_Tedarik.Form1.resources
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\obj\Debug\Parça_Tedarik.Properties.Resources.resources
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.GenerateResource.cache
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\obj\Debug\Parça Tedarik.exe
+C:\Users\ALİ TOKMAK\Desktop\Parça Tedarik\obj\Debug\Parça Tedarik.pdb
+C:\Users\ali\Desktop\gt\Parça Tedarik\bin\Debug\Parça Tedarik.exe.config
+C:\Users\ali\Desktop\gt\Parça Tedarik\bin\Debug\Parça Tedarik.exe
+C:\Users\ali\Desktop\gt\Parça Tedarik\bin\Debug\Parça Tedarik.pdb
+C:\Users\ali\Desktop\gt\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\gt\Parça Tedarik\obj\Debug\Parça_Tedarik.Form1.resources
+C:\Users\ali\Desktop\gt\Parça Tedarik\obj\Debug\Parça_Tedarik.Properties.Resources.resources
+C:\Users\ali\Desktop\gt\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.GenerateResource.cache
+C:\Users\ali\Desktop\gt\Parça Tedarik\obj\Debug\Parça Tedarik.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\gt\Parça Tedarik\obj\Debug\Parça Tedarik.exe
+C:\Users\ali\Desktop\gt\Parça Tedarik\obj\Debug\Parça Tedarik.pdb
